@@ -1,4 +1,4 @@
-# uestc-thesis-referencing-style 
+# UESTC-thesis-referencing-style 
 
 A thesis referencing style for UESTC students
 - Copy the file to you drive C.
