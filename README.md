@@ -2,7 +2,6 @@
 
 A thesis referencing style for UESTC students
 - Copy the file to you drive C.
-- 
 - Locate Program files (x86).
 -  Navigate to find your Mendeley (eg. Mendeley Desktop) and then press enter
 -  Locate citationStyle-versionNumb(eg. citationStyles-1.0)
