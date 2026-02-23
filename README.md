@@ -1,4 +1,4 @@
-# uestc-thesis-referencing-style
+# uestc-thesis-referencing-style \n
 A thesis referencing style for UESTC students
  Copy the file to you drive C.
 Locate Program files (x86).
